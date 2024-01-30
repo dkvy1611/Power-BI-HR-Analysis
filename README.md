@@ -1,6 +1,6 @@
 # About the project
 
-##Context
+## Context
 A large company named XYZ, employs, at any given point in time, around 4000 employees. 
 
 However, around 15% of its employees leave the company every year and need to be replaced with the talent pool available in the job market.
