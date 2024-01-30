@@ -1,15 +1,17 @@
 # About the project
-A large company named XYZ, employs, at any given point of time, around 4000 employees. 
 
-However, every year, around 15% of its employees leave the company and need to be replaced with the talent pool available in the job market.
+##Context
+A large company named XYZ, employs, at any given point in time, around 4000 employees. 
 
-The manager want to know what changes they should make to their workplace, in order to get most of their employees to stay. 
+However, around 15% of its employees leave the company every year and need to be replaced with the talent pool available in the job market.
 
-Also, they want to know which of these variables is most important and needs to be addressed right away. 
+The manager wants to know what changes they should make to their workplace to get most of their employees to stay. 
+
+Also, they want to know which of these variables is most important and should be addressed immediately. 
 
 You will have to create a dashboard to see the overall situation of HR the employees' wellness and salary.
 
-# About the dataset
+## Content
 This dataset contains 29 columns and 4410 rows.
 
 | No | Column Name              | Description                                            |
@@ -19,7 +21,7 @@ This dataset contains 29 columns and 4410 rows.
 | 3  | Attrition                 | Whether the employee left in the previous year or not  |
 | 4  | BusinessTravel            | Frequency of business travel in the last year           |
 | 5  | Department                | Department in the company                              |
-| 6  | DistanceFromHome          | Distance from home in kms                               |
+| 6  | DistanceFromHome          | Distance from home in km                               |
 | 7  | Education                 | Education Level (1 'Below College' 2  'College'  3 'Bachelor' 4 'Master' 5 'Doctor') |
 | 8  | EducationField            | Field of education                                     |
 | 9  | EmployeeCount             | Employee count                                         |
